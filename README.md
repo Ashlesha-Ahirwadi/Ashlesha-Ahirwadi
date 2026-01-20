@@ -1,69 +1,72 @@
 # Hi, I'm Ashlesha 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Series-1F618D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0E6655?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-5D6D7E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat"/>
+  <img src="https://img.shields.io/badge/Time%20Series-1F618D?style=flat"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0E6655?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-5D6D7E?style=flat"/>
 </p>
 
-I’m a **Master’s student in Artificial Intelligence at Northwestern University**, focused on building well-grounded AI systems through hands-on projects in **machine learning, time series forecasting, computer vision, and generative AI**.
+I’m a **Master’s student in Artificial Intelligence at Northwestern University**, interested in building and evaluating AI systems with a strong emphasis on fundamentals, data quality, and real-world constraints. My work spans **time series forecasting, computer vision, NLP, and generative AI**, with applications in healthcare and finance.
 
-🎓 **M.S. Artificial Intelligence — Northwestern University**
-📍 Evanston / Chicago, USA
-🔎 Actively seeking **AI / ML internships and research opportunities**
+🎓 **M.S. Artificial Intelligence — Northwestern University** <br/>
+📍 Evanston / Chicago, USA <br/>
+🔎 Seeking **AI / ML internships and research opportunities** <br/>
 
 ---
 
-## 🚀 What I’ve Built
+## What I’ve Built
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Medicurious-AI%20Medical%20System-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Series-Finance%20Modeling-2874A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Pose%20Estimation-117864?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Recommender%20Systems-Collaborative%20Filtering-7D6608?style=for-the-badge"/>
-</p>
-
-* **Medicurious** — Structured, safety-aware medical AI system
-* **Financial Time Series Modeling** — Statistical + deep learning models on NASDAQ data
-* **Virtual Gym Trainer** — Real-time pose estimation and joint-angle feedback
-* **Recommender Systems** — Collaborative filtering with evaluation metrics
+* **Medicurious** — An AI-driven medical information system focused on structured reasoning, safety-aware responses, and consistency in medical information delivery.
+* **Time Series & Financial Modeling** — Forecasting and analysis of NASDAQ-related time series data using statistical and deep learning approaches, with attention to evaluation and data integrity.
+* **Virtual Gym Trainer** — A real-time computer vision system for pose estimation and joint-angle–based feedback.
+* **Recommender Systems** — Collaborative filtering–based recommendation engines with careful metric selection and evaluation.
 
 ---
 
-## 🧩 Core Focus Areas
+## Core Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20Prompting-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Series-Forecasting-1A5276?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Image%20Pipelines-0B5345?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-Text%20Modeling-566573?style=for-the-badge"/>
-</p>
+* Machine Learning and Deep Learning fundamentals
+* Time Series Forecasting and Sequential Modeling
+* Computer Vision for applied, real-time systems
+* Natural Language Processing and LLM-based systems
+* Applied AI in healthcare and finance
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Time%20Series-SARIMAX%20%7C%20LSTM%20%7C%20TiDE%20%7C%20TS--Mixers-1F618D?style=for-the-badge"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect
 
-<p align="left">
-  <a href="mailto:ashlesha.ahirwadi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashlesha-ahirwadi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
+## Let’s Connect
+
+📧 Email: [ashlesha.ahirwadi@gmail.com](mailto:ashlesha.ahirwadi@gmail.com) <br/>
+🔗 LinkedIn: [https://www.linkedin.com/in/ashlesha-ahirwadi](https://www.linkedin.com/in/ashlesha-ahirwadi) <br/>
+🌐 GitHub: [https://github.com/Ashlesha-Ahirwadi](https://github.com/Ashlesha-Ahirwadi) <br/>
